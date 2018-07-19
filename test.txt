@@ -5,4 +5,4 @@
 18/7/19
 after fix conflict
 update in local branch dev?
-Creating a new branch is 
+Creating a new branch is quick AND simple
